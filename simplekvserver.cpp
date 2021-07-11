@@ -2,8 +2,8 @@
 
 using namespace key_value_server;
 using namespace std;
-#define WORK_DIR "home/civilmaps/kv_db"
-#define LOG_DIR "home/civilmaps/kv_db/log"
+#define WORK_DIR "/home/ubuntu/kv_db"
+#define LOG_DIR "/home/ubuntu/kv_db/log"
 
 /**
  * Simple Key-Value server
