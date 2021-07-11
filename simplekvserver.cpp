@@ -1,6 +1,6 @@
 #include "simplekvserver.h"
 
-using namespace macrometa;
+using namespace key_value_server;
 using namespace std;
 #define WORK_DIR "home/civilmaps/kv_db"
 #define LOG_DIR "home/civilmaps/kv_db/log"

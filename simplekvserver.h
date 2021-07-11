@@ -21,7 +21,7 @@
 #include <shared_mutex>
 #include <unordered_map>
 
-using namespace macrometa;
+using namespace key_value_server;
 using namespace std;
 #define MAX_CACHE_SIZE 1048576
 

@@ -10,7 +10,7 @@
 #include <functional>
 #include <stdexcept>
 
-namespace macrometa {
+namespace key_value_server {
 	class ThreadPool {
 		public:
 			ThreadPool(size_t);

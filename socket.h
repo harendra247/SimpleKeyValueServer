@@ -2,7 +2,7 @@
 
 #include <string>
 
-namespace macrometa {
+namespace key_value_server {
 
 	class ClientSocket {
 		public:
@@ -32,4 +32,4 @@ namespace macrometa {
 			int fd;
 	};
 
-} // namespace macrometa
+} // namespace key_value_server

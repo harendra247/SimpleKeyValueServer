@@ -6,7 +6,7 @@
 #include <iostream>
 #include <errno.h>
 
-namespace macrometa {
+namespace key_value_server {
 
 	ClientSocket::ClientSocket() : fd(-1) {}
 	ClientSocket::ClientSocket(int fd) {
@@ -196,4 +196,4 @@ namespace macrometa {
 		return 0;
 	}
 
-} // namespace macrometa
+} // namespace key_value_server
