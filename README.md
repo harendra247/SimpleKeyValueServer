@@ -1,4 +1,4 @@
-# SimpleKVServer
+# SimpleKeyValueServer
 A Simple Key-Value Server Based on Thread Pool 
 
 ## Introduction
@@ -9,7 +9,7 @@ make
 
 
 ## Usage
-./simplekvsvr storefile
+./simplekeyvalueserver storefile
 
 The server will be listening on port 9999.
 
