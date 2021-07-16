@@ -2,7 +2,7 @@ CXX        = g++
 #CXXFLAGS   = -std=c++17 -Wall -Wextra -O0 -g
 CXXFLAGS   = -std=c++17 -Wall -Wextra -O2
 LDFLAGS    = -pthread
-TARGET     = kvserver
+TARGET     = simplekeyvalueserver
 
 all: init clean client link end
 init:
